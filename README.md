@@ -22,13 +22,16 @@ The program generates random numbers and displays them one by one in the termina
 
 # Installation
 
-```text
-git clone 
-↓
-3
-↓
-10
-↓
-5
-↓
-9
+Clone the repository and run the program:
+
+```bash
+git clone https://github.com/mylinux010706-arch/math-fun.git
+cd math-fun
+pip install -r requirements.txt
+python3 app.py
+```
+Or copy and paste the commands below directly into your terminal:
+
+```bash
+git clone https://github.com/mylinux010706-arch/math-fun.git && cd math-fun && pip install -r requirements.txt && python3 app.py
+```
