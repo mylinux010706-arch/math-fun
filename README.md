@@ -2,7 +2,9 @@
 
 Math Fun is a Python-based terminal game designed to improve mental calculation, concentration, and number memorization skills.
 
-The program generates random numbers and displays them one by one in the terminal. Users can choose the number length and the speed at which each number is displayed.
+The program generates random numbers and displays them one by one. Users can choose the number length and the speed at which each number is displayed.
+
+Have Fun!
 
 # Features
 
